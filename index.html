@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title> Vine generator </title>
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./style.css">
   </head>
   <body>
       <div id = "generator">
@@ -20,8 +20,13 @@
         </div>
 
         <div class="vines">
-          <div id="video"><iframe width="480px" height="320px" src="http://www.youtube.com/embed/' + videos[index] + '?autoplay=1" frameborder="0" allowfullscreen></iframe></div>
-          <h2 class="text" id = "vine-name"> (Click button to get Vine!) </h2>
+          <div>
+            <!-- CONCATENATION NEVER AGAIN I'M SO SMART>
+            <!-- <iframe id="video" width="480px" height="320px" src="http://www.youtube.com/embed/" + vineLinks[someNum]></iframe> -->
+            <!-- <iframe id="video" width="480" height="320"   src="http://www.youtube.com/embed/" '?autoplay=1" frameborder="0" allowfullscreen></iframe> -->
+            <iframe id="video" width="480" height="320" src="https://www.youtube.com/embed/wdMWkOT06iI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <h2 class="text" id = "vine-name"> (Click button to get a Vine!) </h2>
           <!-- <h1 class = "text"> [Insert Vine name here!!] </h1> -->
         </div>
 
