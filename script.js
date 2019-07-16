@@ -69,10 +69,52 @@ var vineNames =
   // Set 10 
   "Cmon brain",
   "That's my opinion",
-  "Car singing",
+  "Baby it's you",
   "Liam Neeson",
   "Around the world",
-  
+ 
+ // Set 11
+ "Paper beatbox",
+ "AAA",
+ "I'm a what?",
+ "I shaved my eyebrows!",
+ "You're my dad!",
+ 
+ //Set 12
+ "Annie are you ok",
+ "Sir, are you okay",
+ "Patricia!",
+ "Cat Transcendence",
+ "If your name is Junior",
+ 
+ // Set 13
+ "Squidward",
+ "Crawling",
+ "Taco",
+ "Charging up a phone with monster and a corn dog",
+ "Bop it",
+ 
+ // Set 14
+ "Hannah Montana",
+ "Welcome to physics!",
+ "Chicken nugget",
+ "Dancing",
+ "Hello",
+ 
+ // Set 15
+ "What are you waiting for?",
+ "Where'd you learn to drive?",
+ "Football doggo",
+ "What is love",
+ "Mission impossible",
+ 
+ // Set 16
+ "If I had a penny for every time I wasn't cool",
+ "Is that really a pumpkin?",
+ "Minions",
+ 
+ 
+ 
 ]
 
 var vineLinks =
@@ -146,7 +188,49 @@ var vineLinks =
   "https://www.youtube.com/embed/WVtAhw2S1Qs",
   "https://www.youtube.com/embed/awX20bnDfTk",
   "https://www.youtube.com/embed/KpUWQVx1PnU",
+ 
+ // Set 11
+ "https://www.youtube.com/embed/5p7vG6MjWck",
+ "https://www.youtube.com/embed/YUTeAcKyR24",
+ "https://www.youtube.com/embed/4vrMKl2zltA",
+ "https://www.youtube.com/embed/XgHcljed67I",
+ "https://www.youtube.com/embed/zQOkwoUPNgQ",
+ 
+ // Set 12
+ "https://www.youtube.com/embed/NR1zHdFN8A4",
+ "https://www.youtube.com/embed/rugL594cIa8",
+ "https://www.youtube.com/embed/477fRTF8Czs",
+ "https://www.youtube.com/embed/IuysY1BekOE",
+ "https://www.youtube.com/embed/g_KlxoVHUmM",
+ 
+ // Set 13
+ "https://www.youtube.com/embed/86LqlzZvkRI",
+ "https://www.youtube.com/embed/_tZ156d2jOo",
+ "https://www.youtube.com/embed/LMdtYZFTvhY",
+ "https://www.youtube.com/embed/GctcztImvNo",
+ "https://www.youtube.com/embed/Eywp61pXUm4",
+ 
+ // Set 14
+ "https://www.youtube.com/embed/kI65vqwg-lM",
+ "https://www.youtube.com/embed/hopFImGkNo4",
+ "https://www.youtube.com/embed/X7cQ7KnoRk0",
+ "https://www.youtube.com/embed/zEFoyDYu-ck",
+ "https://www.youtube.com/embed/zsUBRCdEDYY",
+ 
+ // Set 15
+ "https://www.youtube.com/embed/ekl_arkB4MU",
+ "https://www.youtube.com/embed/2bnnDTPCA94",
+ "https://www.youtube.com/embed/64ucqo3g7Q8",
+ "https://www.youtube.com/embed//Rbi4PZBQaiM",
+ "https://www.youtube.com/embed/8U0sjHxYqrw",
+ 
+ // Set 16
+  "https://www.youtube.com/embed/44PcGnqEnXc",
+  "https://www.youtube.com/embed/VpTpqsd-0Rc",
+  "https://www.youtube.com/embed/_aK7MRiJKqE",
 
+
+ 
 
   // "https://www.youtube.com/embed/",
 ]
