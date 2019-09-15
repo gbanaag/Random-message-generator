@@ -6,7 +6,7 @@
 }
 
 html {
-  background: linear-gradient(90deg, #51d6b1 50%, #85ffdd 50%);
+  background: linear-gradient(45deg, #51d6b1 50%, #85ffdd 50%);
   /* animation: colorchange 50s; /* animation-name followed by duration in seconds*/
          /* you could also use milliseconds (ms) or something like 2.5s */
       -webkit-animation: colorchange 5s; /* Chrome and Safari */ */
