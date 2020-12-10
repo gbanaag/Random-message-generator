@@ -36,8 +36,19 @@ var vineNames =
 "Freestyle dance teacher",
 "Stress relief",
 
-
-
+"Chicken strips",
+"It is Wednesday my dudes",
+"Hurricane tortilla",
+"Baby shower",
+"Who summoned me",
+ 
+"Kung Fu Panda 2",
+"I'm not answering your phone call for a reason",
+"Thicker than a bowl of oatmeal",
+"Power of god and anime",
+"Freestyle dance teacher",
+ 
+ 
 ]
 
 var vineLinks =
@@ -77,8 +88,17 @@ var vineLinks =
 "https://www.youtube.com/embed/ZkNMZlkrzaU",
 "https://www.youtube.com/embed/dAxptzgPUPg",
 
-
-
+"https://www.youtube.com/watch?v=d7mrBC0zLZg",
+"https://www.youtube.com/watch?v=du-TY1GUFGk",
+"https://www.youtube.com/watch?v=21jLmc_Il3o",
+"https://www.youtube.com/watch?v=im_3ClEtPHs",
+"https://www.youtube.com/watch?v=CIezqiRltTo",
+ 
+"https://www.youtube.com/watch?v=UqYhi8BDk5Q",
+"https://www.youtube.com/watch?v=-y4PA6T01ds",
+"https://www.youtube.com/watch?v=Beo6o-P4ndM",
+"https://www.youtube.com/watch?v=Tlwda9S58Lg",
+"https://www.youtube.com/watch?v=ZkNMZlkrzaU"
 
 
 // "https://www.youtube.com/embed/ ",
