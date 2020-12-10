@@ -48,7 +48,31 @@ var vineNames =
 "Power of god and anime",
 "Freestyle dance teacher",
  
+"B, where?",
+"Happy birthday Raven!",
+"Marlene, your speech was so good",
+"Daddy?",
+"Talent show",
  
+"YEET",
+"When Life gives you lemons",
+"Sneezed on the beet",
+"F you.",
+"I love you, bitch",
+ 
+"You can't kill me",
+"Good evening",
+"I won't hesitate",
+"Why is that guy so good at bowling",
+"Without me?",
+ 
+"Big time rush",
+"I'm not sure",
+"I built this cage",
+"Can I help you",
+"Vaccum",
+ 
+
 ]
 
 var vineLinks =
@@ -79,7 +103,7 @@ var vineLinks =
 "https://www.youtube.com/embed/UoZpZZnekvs",
 "https://www.youtube.com/embed/_4Zascmf2aw",
 "https://www.youtube.com/embed/HEPwfliNn2s",
-"https://www.youtube.com/embed/qOoWVxsnLPQ",
+"https://www.youtube.com/watch?v=qOoWVxsnLPQ",
 "https://www.youtube.com/embed/crv99-LT4j8",
 
 "https://www.youtube.com/embed/mf70J41eShI",
@@ -98,8 +122,31 @@ var vineLinks =
 "https://www.youtube.com/watch?v=-y4PA6T01ds",
 "https://www.youtube.com/watch?v=Beo6o-P4ndM",
 "https://www.youtube.com/watch?v=Tlwda9S58Lg",
-"https://www.youtube.com/watch?v=ZkNMZlkrzaU"
-
+"https://www.youtube.com/watch?v=ZkNMZlkrzaU",
+ 
+"https://www.youtube.com/watch?v=KKBLmMB70DA",
+"https://www.youtube.com/watch?v=HEPwfliNn2s",
+"https://www.youtube.com/watch?v=e2X5p7_LUIY",
+"https://www.youtube.com/watch?v=87GUSKlanB0",
+"https://www.youtube.com/watch?v=mlgstMp_nd0",
+ 
+"https://www.youtube.com/watch?v=2Bjy5YQ5xPc",
+"https://www.youtube.com/watch?v=EcLPNGLRHU8",
+"https://www.youtube.com/watch?v=xnd8kaQj2zQ",
+"https://www.youtube.com/watch?v=_wkQSF3TdQU",
+"https://www.youtube.com/watch?v=psxBizrPIxg",
+ 
+"https://www.youtube.com/watch?v=GaNGKD4MTV0",
+"https://www.youtube.com/watch?v=OyBmEeojfKo",
+"https://www.youtube.com/watch?v=P-IC3db0agY",
+"https://www.youtube.com/watch?v=BEIGG3vrRfA",
+"https://www.youtube.com/watch?v=mtL6wm1ef-g",
+ 
+"https://www.youtube.com/watch?v=OyOcV3293qg",
+"https://www.youtube.com/watch?v=mOtd_rBHebI",
+"https://www.youtube.com/watch?v=b-nwRDNoJR4",
+"https://www.youtube.com/watch?v=SALPlLKzuBA",
+"https://www.youtube.com/watch?v=wtllL4AStVU",
 
 // "https://www.youtube.com/embed/ ",
 ]
