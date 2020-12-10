@@ -72,6 +72,58 @@ var vineNames =
 "Can I help you",
 "Vaccum",
  
+"This is my jam",
+"Panic at the Disco",
+"Captain America",
+"End up at McDonald's",
+"Do you love me cousin?",
+ 
+"Bork",
+"Don't care about my haters",
+"Wtf Richard", 
+"I hate you",
+"Yummmm",
+ 
+"Still a piece of garbage",
+"Just this letter",
+"What are you looking at?",
+"Look what I bought",
+"BRUHHHH",
+
+"Don't need a degree",
+"I wanted to be a cowboy, baby",
+"Bring the beat in",
+"I was in a band",
+"Excuse my potty mouth",
+ 
+ "AHA, AHA",
+ "Michael with a B",
+ "Rip",
+ "AAAA",
+ "How do you know what's good for me?",
+ 
+ "I'm a giraffe",
+ "SAIL",
+ "I have no soul",
+ "Mind yo business David!",
+ "Afraid of technology",
+ 
+ "Didn't get no sleep cause of y'all",
+ "There's a mushroom on your shirt",
+ "I got Abraham Lincoln",
+ "Completely Giving up on life",
+ "Buenos Dias",
+ 
+ "The cow says moo",
+ "Skittles",
+ "Do you want to go to the dance with me?",
+ "SIKE",
+ "Burnt chicken nugget",
+ 
+ "20 piece nuggets",
+ "Eating ice cream",
+ 
+ 
 
 ]
 
@@ -147,6 +199,60 @@ var vineLinks =
 "https://www.youtube.com/watch?v=b-nwRDNoJR4",
 "https://www.youtube.com/watch?v=SALPlLKzuBA",
 "https://www.youtube.com/watch?v=wtllL4AStVU",
+ 
+"https://www.youtube.com/watch?v=RePvIsMOhDU",
+"https://www.youtube.com/watch?v=iLfYowEaD18",
+"https://www.youtube.com/watch?v=TQUFMqtRYPI",
+"https://www.youtube.com/watch?v=LKMZFKVwp9U",
+"https://www.youtube.com/watch?v=ccPxDI9W7VM",
+ 
+ "https://www.youtube.com/watch?v=XQFuZDueoEM",
+ "https://www.youtube.com/watch?v=sWDH0QVP3mc",
+ "https://www.youtube.com/watch?v=UBQP9gEldRk",
+ "https://www.youtube.com/watch?v=gBo26500o7U",
+ "https://www.youtube.com/watch?v=53EWNA_XLrw",
+ 
+ "https://www.youtube.com/watch?v=FZUcpVmEHuk",
+ "https://www.youtube.com/watch?v=e0ROWMyxdZI",
+ "https://www.youtube.com/watch?v=b3-aO1x9Jso",
+ "https://www.youtube.com/watch?v=KbVEy4ki5yE",
+ "https://www.youtube.com/watch?v=LJ201maI8e4",
+ 
+ "https://www.youtube.com/watch?v=spoObfZ63DU",
+ "https://www.youtube.com/watch?v=feMwFuihX2o",
+ "https://www.youtube.com/watch?v=wkJrNldb1ew",
+ "https://www.youtube.com/watch?v=gb4Fj6jX7rE",
+ "https://www.youtube.com/watch?v=FTyY8Io3ZWo",
+ 
+ "https://www.youtube.com/watch?v=7PnzPGSjfcA",
+ "https://www.youtube.com/watch?v=GG6H-Btfuww",
+ "https://www.youtube.com/watch?v=S-_6i11WHTE",
+ "https://www.youtube.com/watch?v=YUTeAcKyR24",
+ "https://www.youtube.com/watch?v=BODacQoSgNY",
+ 
+ "https://www.youtube.com/watch?v=crv99-LT4j8",
+ "https://www.youtube.com/watch?v=nHp9QUCwzJc",
+ "https://www.youtube.com/watch?v=c38_1E_esPc",
+ "https://www.youtube.com/watch?v=bp4WxLUeyLE",
+ "https://youtu.be/Fc1P-AEaEp8",
+ 
+ "https://youtu.be/110l4ynyhII",
+ "https://youtu.be/L8bR07JJoMc",
+ "https://youtu.be/RUQ0gq3TdT0",
+ "https://youtu.be/AnVzPhnqeN0",
+ "https://youtu.be/FefKlXAfF2s",
+ 
+ "https://youtu.be/JE6btxPRPXg",
+ "https://youtu.be/EN4e0k90Noo",
+ "https://youtu.be/LMgNCNxACNQ",
+ "https://youtu.be/S-yKLZKpc3k",
+ "https://youtu.be/X7cQ7KnoRk0",
+ 
+ "https://youtu.be/4O81NhGuF-w",
+ "https://youtu.be/9vqzoAhzwqM",
+ 
+ 
+ 
 
 // "https://www.youtube.com/embed/ ",
 ]
